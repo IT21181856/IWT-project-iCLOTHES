@@ -1,0 +1,31 @@
+
+
+
+body{
+  background-image: url(" ../images/ad2.jpg");
+}
+
+
+legend {
+  background-color: #000066;
+  color: white;
+  padding: 5px 10px;
+}
+
+.lbutton {
+	background-color: #000066;
+	color : white;
+}
+
+a.buttn {
+		
+	background-color: #66004d;
+	color : white;
+
+}
+
+.nbuttn {
+	
+	background-color: #66004d;
+	color : white;
+}
